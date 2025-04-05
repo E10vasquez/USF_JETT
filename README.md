@@ -1,2 +1,4 @@
 # USF_JETT
-skin cancer ai
+JETT is our HackUSF submission for our Canvas API Submission.
+
+Created by: 
